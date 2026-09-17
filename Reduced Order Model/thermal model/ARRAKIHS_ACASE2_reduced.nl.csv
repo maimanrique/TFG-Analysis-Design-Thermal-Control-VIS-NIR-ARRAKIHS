@@ -1,0 +1,14 @@
+# Basic Thermal Model Data - Node List
+# ARRAKIHS_ACASE2_reduced          10 June       2026
+# pycanha reduced model
+#
+# Type,Number,Label,Model
+D,1,"Radiator_A",ARRAKIHS_ACASE2_reduced
+D,2,"Radiator_B",ARRAKIHS_ACASE2_reduced
+D,3,"Radiator_Heater",ARRAKIHS_ACASE2_reduced
+D,4,"ColdFinger_Far",ARRAKIHS_ACASE2_reduced
+D,5,"ColdFinger_HE2",ARRAKIHS_ACASE2_reduced
+D,6,"ColdFinger_Root",ARRAKIHS_ACASE2_reduced
+D,7,"Straps",ARRAKIHS_ACASE2_reduced
+D,8,"FPA",ARRAKIHS_ACASE2_reduced
+B,9,"ENVIRONMENT",ARRAKIHS_ACASE2_reduced
